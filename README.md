@@ -10,6 +10,7 @@ X-Men é um dos projetos do curso Técnico de Desenvolvimento de Sistemas oferec
 
 ## Layout web
 
+<img width="1280" height="897" alt="screencapture-robsantox-github-io-x-men-SENAC-2025-07-30-15_20_32" src="https://github.com/user-attachments/assets/9ad0576f-4f47-447c-beb3-a50301650412" />
 
 # Tecnologias utilizadas
 
